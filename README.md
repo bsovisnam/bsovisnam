@@ -16,9 +16,8 @@
 
 ### 🧑‍💻 About me
 
-- 🏢 Software Developer / System Integration Specialist at **Prince Technologies Corporation** (2020 – present)
+- 🏢 Software Developer 
 - 🤖 AI Automation Specialist, building workflows with **Airtable, Zapier, Make and n8n**
-- 🏫 Working on **PRIISMS**, a school management system built with Laravel and React
 - ⚡ I use AI tools (**OpenAI, Claude, Cursor**) to ship faster and solve problems
 - 🎓 BS Computer Engineering, University of Science and Technology of Southern Philippines
 
