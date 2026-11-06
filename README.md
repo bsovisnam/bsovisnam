@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:10b981&height=200&section=header&text=Bernard%20Vismanos&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20System%20Integration%20Specialist&descAlignY=58&descSize=18" alt="Bernard Vismanos banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:10b981&height=200&section=header&text=Bernard%20Vismanos&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20AI%20Automation%20Specialist&descAlignY=58&descSize=18" alt="Bernard Vismanos banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bernard</h1>
