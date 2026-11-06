@@ -22,16 +22,6 @@
 - ⚡ I use AI tools (**OpenAI, Claude, Cursor**) to ship faster and solve problems
 - 🎓 BS Computer Engineering, University of Science and Technology of Southern Philippines
 
-### 🚀 Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [**BatchLinx**](https://batchlinx.com) | From cohorts to credentials to careers |
-| [**PRIISMS Online**](https://demo.priisms.online) | School management platform by Prince Technologies |
-| [**PRIISMS K12**](https://k12.swoole.priisms.dev) | Built for the whole school day |
-| **AI SMS Assistant** | A RAG-powered AI agent that works over text message |
-| **KYZEN Email Engagement Sync** | Real-time outreach tracking, no manual updates |
-| **Reformatizer Lead & Portal Automation** | One n8n template, deployed for every client |
 
 ### 🛠️ Languages and tools
 
