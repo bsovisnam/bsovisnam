@@ -62,8 +62,8 @@
 ### 📊 GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bsovisnam&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsovisnam&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bsovisnam&theme=tokyonight" height="165" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bsovisnam&theme=tokyonight" height="165" alt="Top languages" />
 </p>
 
 <p>
