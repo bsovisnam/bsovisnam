@@ -8,7 +8,7 @@
 <h3 align="center">Building software that <i>scales</i> and systems that <i>connect</i>.</h3>
 
 <p align="center">
-  Software Developer and AI Automation Specialist from Metro Manila, Philippines 🇵🇭<br/>
+  Software Developer and AI Automation Specialist from Cagayan de Oro City, Philippines 🇵🇭<br/>
   I build full-stack apps with <b>Laravel, React and Vue</b> and connect them through <b>APIs, integrations and automation</b>.
 </p>
 
